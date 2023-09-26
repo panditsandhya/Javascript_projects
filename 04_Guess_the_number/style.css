@@ -1,0 +1,30 @@
+body{
+  background-color: grey;
+  color: #fff;
+  font-family: 'Times New Roman';
+}
+p{
+  font-size: 20px;
+}
+
+#wrapper{
+  text-align: center;
+  padding: 50px 50px;
+}
+
+#guess{
+  font-size: 30px;
+}
+
+#guessField{
+  padding: 8px;
+}
+
+#subt{
+  font-size: 15px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 8px;
+  background-color: black;
+  color: #fff;
+}
